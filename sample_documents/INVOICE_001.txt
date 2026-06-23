@@ -1,0 +1,23 @@
+INVOICE #INV-2026-001
+
+Vendor: CloudTech Solutions Ltd.
+Customer: DataCorp Industries
+
+Invoice Date: 2026-06-15
+Due Date: 2026-07-15
+
+Items:
+
+* Cloud Infrastructure Subscription: $1,200
+* Premium Support Package: $300
+
+Subtotal: $1,500
+Tax (17%): $255
+
+Total Amount Due: $1,755
+
+Payment Terms:
+Payment due within 30 days of invoice date.
+
+Contact:
+[billing@cloudtech.com](mailto:billing@cloudtech.com)
